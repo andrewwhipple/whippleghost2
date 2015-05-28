@@ -438,10 +438,7 @@ margin on the iframe, cause it breaks stuff. */
 
 /* Ad Code*/
 
-.ad {
-	position: relative;
-	padding: 10%;
-}
+
 
 /* Big cover image on the home page */
 .main-header {
