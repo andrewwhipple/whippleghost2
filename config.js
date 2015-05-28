@@ -25,7 +25,7 @@ config = {
   // Production (Heroku)
   production: {
     //process.env.HEROKU_URL
-	url: 'www.andrewwhipple.com',
+	url: process.env.HEROKU_URL,
     mail: {
       transport: 'SMTP',
       host: 'smtp.mandrillapp.com',
