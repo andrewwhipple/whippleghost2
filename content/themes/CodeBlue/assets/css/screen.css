@@ -1563,7 +1563,7 @@ body:not(.post-template) .post-title {
 
 @media only screen and (max-width: 500px) {
     
-	.ad-footer, .ad-post {
+	.ad-footer {
 		
 		display: none;
 	}
