@@ -442,7 +442,7 @@ margin on the iframe, cause it breaks stuff. */
 	height: 90px;
 }
 
-.ad-footer, .ad-post, .ad-footer-mobile {
+.ad-footer, .ad-post {
 	padding-left: 20%;
 	padding-right: 20%;
 }
@@ -1571,6 +1571,9 @@ body:not(.post-template) .post-title {
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
+		padding-left: 10%;
+		padding-right: 10%;
+		margin-bottom: 5%;
 	}
 	
     /**About us page css for 500px media**/
