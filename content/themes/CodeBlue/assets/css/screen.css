@@ -442,6 +442,11 @@ margin on the iframe, cause it breaks stuff. */
 	height: 90px;
 }
 
+.ad-footer {
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
 /* Big cover image on the home page */
 .main-header {
     position: relative;
