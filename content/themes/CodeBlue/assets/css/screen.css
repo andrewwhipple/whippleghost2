@@ -1556,6 +1556,13 @@ body:not(.post-template) .post-title {
 
 @media only screen and (max-width: 500px) {
     
+	.ad-footer, .ad-post {
+		padding-left: 10%;
+		padding-right: 10%;
+		padding-bottom: 10%;
+		height: 100px;
+	}
+	
     /**About us page css for 500px media**/
     #team ul li #team1 a {
         padding:0px 6px 0px 6px;
