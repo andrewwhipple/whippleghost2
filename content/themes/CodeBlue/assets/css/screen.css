@@ -1567,6 +1567,12 @@ body:not(.post-template) .post-title {
 		
 		display: none;
 	}
+	
+	.ad-post {
+		height: 50px;
+		padding-left: 10%;
+		padding-right: 10%;
+	}
 	.ad-footer-mobile {
 		display: block;
 		margin-left: auto;
