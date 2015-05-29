@@ -442,7 +442,7 @@ margin on the iframe, cause it breaks stuff. */
 	height: 90px;
 }
 
-.ad-footer {
+.ad-footer, .ad-post {
 	padding-left: 20%;
 	padding-right: 20%;
 	height: 180px;
