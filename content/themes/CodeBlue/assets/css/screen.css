@@ -1562,6 +1562,7 @@ body:not(.post-template) .post-title {
 		padding-bottom: 10%;
 		height: 100px;
 		margin-bottom: 2%;
+		position: relative;
 	}
 	
     /**About us page css for 500px media**/
