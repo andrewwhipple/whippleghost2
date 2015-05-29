@@ -1572,6 +1572,7 @@ body:not(.post-template) .post-title {
 		height: 50px;
 		padding-left: 10%;
 		padding-right: 10%;
+		margin-bottom: 20%;
 	}
 	.ad-footer-mobile {
 		display: block;
